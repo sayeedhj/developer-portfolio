@@ -13,14 +13,14 @@ h1{
 
 section{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 150px;
 }
 .jsj{
     width: 50%;
     padding-left: 5%;
     
 }
-#jj{
+.jj{
     text-align: justify;
 }
 .jsj img{
@@ -39,4 +39,14 @@ font-weight: 700;
 
     background-image:url(images/top-banner.png) ;
     background-repeat: no-repeat;
+}
+.kkk{
+
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.jj{
+
+    padding-right: 5;
 }
