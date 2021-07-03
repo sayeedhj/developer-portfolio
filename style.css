@@ -11,9 +11,9 @@ h1{
      
 }
 
-.flexible{
+section{
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 120px;
 }
 .jsj{
     width: 50%;
@@ -49,4 +49,27 @@ font-weight: 700;
 .jj{
 
     padding-right: 5;
+}
+.orange{
+
+    color: orange;
+}
+.edd{
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-right: 5%;
+    margin-left: 5%;
+    padding: 20px;
+    border-radius: 12px;
+   border-left: 10px solid;
+}
+.experience{
+    background-image:url(images/exp-bg.png) ;
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.flexible{
+
+    display: flex; 
+   
 }
