@@ -1,0 +1,37 @@
+body{
+    font-family: 'Playfair Display', serif;
+    margin: 0;
+}
+h1{
+    font-size: 40px;
+    
+}
+#jisad{
+    color: orange;
+     
+}
+
+section{
+    display: flex;
+}
+.jsj{
+    width: 50%;
+    padding-left: 5%;
+}
+.jsj img{
+    width: 80%;}
+
+
+.tnnm{
+text-decoration: none;
+background-image: linear-gradient(orange, tomato);
+padding: 10px 35px;
+border-radius: 7px;
+color: white;
+font-weight: 700;
+}
+#jnjn{
+
+    background-image:url(images/top-banner.png) ;
+    background-repeat: no-repeat;
+}
