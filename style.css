@@ -11,7 +11,7 @@ h1{
      
 }
 
-section{
+.flexible{
     display: flex;
     margin-bottom: 150px;
 }
